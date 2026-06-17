@@ -27,4 +27,4 @@ A software engineering student building full-stack systems and cloud-native appl
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/<!-- TODO: your LinkedIn handle -->)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/precious-ikechukwu-27745b271/)
