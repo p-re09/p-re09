@@ -15,10 +15,10 @@ A software engineering student building full-stack systems and cloud-native appl
 
 | Project | What it does | Stack |
 |---------|-------------|-------|
-| [ReturnAppProj](https://github.com/p-re09/ReturnAppProj) | End-to-end return management — React form → AI approval → Azure Maps nearest-factory assignment | React · Node.js · Azure · UiPath · Python |
+| [ReturnAppProj](https://github.com/p-re09/ReturnAppProj) | End-to-end return management - React form → AI approval → Azure Maps nearest-factory assignment | React · Node.js · Azure · UiPath · Python |
 | [3d-robotics](https://github.com/p-re09/3d-robotics) | Chapter-by-chapter 3D graphics in Java, from OpenGL basics to animated robot scene graphs | Java · JOGL · OpenGL |
 | [neetcode-submissions](https://github.com/p-re09/neetcode-submissions-zvi6ceer) | Python solutions to NeetCode DSA problems, grouped by pattern | Python |
-| [Practice](https://github.com/p-re09/Practice) | Cross-language fundamentals — same concepts built in C#, Java and Python side by side | C# · Java · Python |
+| [Practice](https://github.com/p-re09/Practice) | Cross-language fundamentals - same concepts built in C#, Java and Python side by side | C# · Java · Python |
 
 ## Currently
 
@@ -27,4 +27,4 @@ A software engineering student building full-stack systems and cloud-native appl
 
 ## Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/precious-ikechukwu-27745b271/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/precious-chisom-27745b271/)
