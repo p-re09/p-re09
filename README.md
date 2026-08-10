@@ -19,6 +19,7 @@ A software engineering student building full-stack systems and cloud-native appl
 | [3d-robotics](https://github.com/p-re09/3d-robotics) | Chapter-by-chapter 3D graphics in Java, from OpenGL basics to animated robot scene graphs | Java · JOGL · OpenGL |
 | [neetcode-submissions](https://github.com/p-re09/neetcode-submissions-zvi6ceer) | Python solutions to NeetCode DSA problems, grouped by pattern | Python |
 | [Practice](https://github.com/p-re09/Practice) | Cross-language fundamentals - same concepts built in C#, Java and Python side by side | C# · Java · Python |
+| [lending-rag](https://github.com/p-re09/lending-rag) | RAG pipeline answering SME lending questions grounded in policy documents, with citations | Python · FAISS · Azure OpenAI |
 
 ## Currently
 
