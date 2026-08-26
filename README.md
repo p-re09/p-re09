@@ -20,6 +20,7 @@ A software engineering student building full-stack systems and cloud-native appl
 | [neetcode-submissions](https://github.com/p-re09/neetcode-submissions-zvi6ceer) | Python solutions to NeetCode DSA problems, grouped by pattern | Python |
 | [Practice](https://github.com/p-re09/Practice) | Cross-language fundamentals - same concepts built in C#, Java and Python side by side | C# · Java · Python |
 | [lending-rag](https://github.com/p-re09/lending-rag) | RAG pipeline answering SME lending questions grounded in policy documents, with citations | Python · FAISS · Azure OpenAI |
+| [aws-terraform-practice](https://github.com/p-re09/aws-terraform-practice) | AWS infrastructure (EC2, S3, IAM, security group) provisioned via Terraform, with a GitHub Actions pipeline that validates every change and gates deployment behind a manual trigger | Terraform · AWS · GitHub Actions |
 
 ## Currently
 
